@@ -1,0 +1,13 @@
+
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-color: #a2d2ff;
+    color: #FFFFFF;
+}
+#me {
+
+    width: 200px;
+    border-radius:50%;
+    border: 8px solid #efb0c9;
+  }
